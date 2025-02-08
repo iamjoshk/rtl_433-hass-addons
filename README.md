@@ -1,3 +1,8 @@
+This fork uses a more recent rtl_433 release (in the rtl_433 next add-on).
+
+---
+
+
 # rtl_433 Home Assistant add-ons
 
 This is a collection of Home Assistant add-ons that work with [rtl_433](https://github.com/merbanan/rtl_433).
